@@ -183,7 +183,7 @@ elif st.session_state["etapa"] == "video":
     st.write(f"Olá **{st.session_state['aluno']['nome']}**! Assista ao vídeo explicativo do **Professor Gabriel Cabral** antes de iniciar o questionário de 10 perguntas. Preste atenção nas dicas de identificação rápida de oxigenados e nitrogenados!")
     
     # Video aula do Youtube incorporada
-    st.video("https://www.youtube.com/watch?v=6_rU9IeD_6g")
+    st.video("https://www.youtube.com/watch?v=VbFMZhEViAM&t=77s")
 
     st.info("""
     **📌 Macetes Curriculares rápidos das Fontes:**
